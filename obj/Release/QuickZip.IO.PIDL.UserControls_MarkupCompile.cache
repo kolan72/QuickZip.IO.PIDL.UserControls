@@ -1,0 +1,18 @@
+﻿QuickZip.IO.PIDL.UserControls
+
+
+library
+C#
+.cs
+C:\Пробы VS 2010\TestParallelFiles\QuickZip.IO.PIDL.UserControls\obj\Release\
+QuickZip.IO.PIDL.UserControls
+none
+false
+TRACE
+
+12376518277
+21372154010
+402073876136
+14103638094
+Themes\Converters.xaml;Themes\Generic.xaml;UserControls\DirectoryTree\DirectoryTree.xaml;UserControls\DirectoryTree\Generic.xaml;UserControls\FileList\FileList.xaml;UserControls\FileList\Generic.xaml;UserControls\FileList\View\GridView.xaml;UserControls\FileList\View\IconView.xaml;UserControls\FileList\View\ListView.xaml;UserControls\FileList\View\Common.xaml;UserControls\FileList\View\SmallIconView.xaml;UserControls\FileList\View\TileView.xaml;
+
