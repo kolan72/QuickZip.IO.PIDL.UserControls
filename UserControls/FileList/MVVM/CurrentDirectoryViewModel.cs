@@ -106,9 +106,12 @@ namespace QuickZip.IO.PIDL.UserControls.ViewModel
                     case ExComparer.SortCriteria.sortByLastWriteTime:
                         _subEntries.SortDescriptions.Add(new SortDescription("LastWriteTime", ListSortDirection.Descending));
                         break;
+<<<<<<< HEAD
                     case ExComparer.SortCriteria.sortByLength:
                         _subEntries.SortDescriptions.Add(new SortDescription("Length", ListSortDirection.Descending));
                         break;
+=======
+>>>>>>> c013b83305f0a8b2d4fa3e9f43e2a72c5cdbd294
                     default:
                         throw new NotImplementedException();
                 }
@@ -130,9 +133,12 @@ namespace QuickZip.IO.PIDL.UserControls.ViewModel
                     case ExComparer.SortCriteria.sortByLastWriteTime:
                         _subEntries.SortDescriptions.Add(new SortDescription("LastWriteTime", ListSortDirection.Ascending));
                         break;
+<<<<<<< HEAD
                     case ExComparer.SortCriteria.sortByLength:
                         _subEntries.SortDescriptions.Add(new SortDescription("Length", ListSortDirection.Ascending));
                         break;
+=======
+>>>>>>> c013b83305f0a8b2d4fa3e9f43e2a72c5cdbd294
                     default:
                         throw new NotImplementedException();
                 }
