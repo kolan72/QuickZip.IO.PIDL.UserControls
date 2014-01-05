@@ -1,7 +1,0 @@
-C:\Пробы VS 2010\TestParallelFiles\QuickZip.IO.PIDL.UserControls\obj\Release\ResolveAssemblyReference.cache
-C:\Пробы VS 2010\TestParallelFiles\QuickZip.IO.PIDL.UserControls\obj\Release\Themes\Generic.baml
-C:\Пробы VS 2010\TestParallelFiles\QuickZip.IO.PIDL.UserControls\obj\Release\UserControls\DirectoryTree\DirectoryTree.g.cs
-C:\Пробы VS 2010\TestParallelFiles\QuickZip.IO.PIDL.UserControls\obj\Release\UserControls\FileList\FileList.g.cs
-C:\Пробы VS 2010\TestParallelFiles\QuickZip.IO.PIDL.UserControls\obj\Release\GeneratedInternalTypeHelper.g.cs
-C:\Пробы VS 2010\TestParallelFiles\QuickZip.IO.PIDL.UserControls\obj\Release\QuickZip.IO.PIDL.UserControls_MarkupCompile.cache
-C:\Пробы VS 2010\TestParallelFiles\QuickZip.IO.PIDL.UserControls\obj\Release\QuickZip.IO.PIDL.UserControls_MarkupCompile.lref
